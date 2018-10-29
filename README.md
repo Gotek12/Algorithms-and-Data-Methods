@@ -1,4 +1,4 @@
-# Algorithms-and-Data-Methods
+# Algorithms-and-Data-Structures
 
 It is a repository designed for university projects which I implements algorithms and data structures.
 
