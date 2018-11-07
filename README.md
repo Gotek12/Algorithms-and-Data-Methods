@@ -6,7 +6,7 @@ It is a repository designed for university projects which I implements algorithm
 
 * C++ 
 
-In the future in another languages like
+In the future:
 
 * Python 
 * JS
@@ -16,6 +16,9 @@ In the future in another languages like
 1. sortowaniePrzezScalanie.cpp 
 
    is a merge sort program with bitonic sequence
+   
+2. listaTablicowa directory contains
+   
 
 ## Sources
 
